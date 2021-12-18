@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/HellenBetti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HellenBetti&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellenBetti&layout=compact&langs_count=7&theme=bear"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HellenBetti&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellenBetti&layout=compact&langs_count=7&theme=bear"/>
 </div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> 
   <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic91/c8cfec92a75c1fe4c412a7dbe1eb9a67.gif" width="150" height="150" style="border-radius:50px; alt="https://picasion.com/" /></a><br />
