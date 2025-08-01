@@ -18,7 +18,7 @@
   ##
   
   <div> 
-  <a href="https://www.linkedin.com/in/hellen-brand%C3%A3o-b60156166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/hellen-betti-b60156166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/HellenBetti/HellenBetti/blob/output/github-contribution-grid-snake.svg)
  
