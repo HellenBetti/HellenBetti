@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Hellen Betti :D
 
 - 👩‍💻 Hoje eu trabalho com back-end e frontend, atuando com C#/.NET e Angular
-- 💻 Estudando .NET 8, Redis, RabbitMQ...
+- 💻 Estudando Azure e AWS...
 - 👩 Pronomes: ela/dela
 
 <div align="center">
